@@ -2,4 +2,5 @@ AI Code Translator
 
 
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8bd12456-9c9a-4e33-8402-72881c5ebdef" />
+
+<img width="1185" height="681" alt="image" src="https://github.com/user-attachments/assets/f2e01762-61c5-4153-956b-81196b4f0d63" />
