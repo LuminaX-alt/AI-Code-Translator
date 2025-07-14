@@ -5,7 +5,7 @@ AI Code Translator
 Running Locally
 1. Clone Repo
 
-git clone https://github.com/mckaywrigley/ai-code-translator.git
+git clone (https://github.com/LuminaX-alt/AI-Code-Translator/blob/main/README.md)
 2. Install Dependencies
 
 npm i
